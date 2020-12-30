@@ -33,7 +33,7 @@
     "history": "4.10.1",
     "html2canvas": "^1.0.0-rc.7",
     "immutable": "^4.0.0-rc.12",
-    "is-hotkey": "^0.1.6",
+    "is-hotkey": "^0.2.0",
     "js-base64": "^3.5.2",
     "jspdf": "^2.1.1",
     "marked": "^1.2.2",
