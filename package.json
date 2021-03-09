@@ -2,7 +2,7 @@
   "name": "root",
   "private": true,
   "dependencies": {
-    "@ckeditor/ckeditor5-react": "^2.1.0",
+    "@ckeditor/ckeditor5-react": "^3.0.2",
     "@date-io/date-fns": "1.x",
     "@e-group/ckeditor5-build-classic": "^21.0.1",
     "@e-group/immutable": "^4.0.0-rc.13",
