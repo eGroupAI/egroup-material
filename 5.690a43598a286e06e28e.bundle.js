@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{2485:function(module){module.exports=JSON.parse('{"title":"Hello world","button":"toggle locale","intro":"To buy a shoe, <link>visit our website</link> and <cta>eat a shoe</cta>"}')}}]);
+//# sourceMappingURL=5.690a43598a286e06e28e.bundle.js.map
